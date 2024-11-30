@@ -1,0 +1,6 @@
+*.csv
+CA2021Solar/*
+CA2021Wind/*
+TX2021Solar/*
+TX2021Wind/*
+*.xlsx
